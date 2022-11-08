@@ -41,7 +41,7 @@ class Task4 : AppCompatActivity(), SensorEventListener{
             }
         }
         findViewById<ImageView>(R.id.arrow).rotation = (newAngle)
-        Log.d("Hello",newAngle.toString())
+
 
     }
 
